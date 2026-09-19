@@ -1,0 +1,9 @@
+{
+  "name": "node-docker-practice",
+  "version": "1.0.0",
+  "description": "Node.js Docker practice application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
